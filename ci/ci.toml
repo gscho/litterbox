@@ -1,0 +1,5 @@
+[git]
+  repo_url = "https://github.com/skylerto/litterbox.git"
+
+[build]
+  script = "bundle install"
